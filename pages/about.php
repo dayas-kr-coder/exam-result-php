@@ -1,5 +1,5 @@
 <?php include_once('../templates/header.php'); ?>
-<title>Update</title>
+<title>About</title>
 <?php
 include_once('../cdn/font-awesome.php');
 include_once('../bootstrap/bootstrap.php');
